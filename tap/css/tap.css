@@ -1,0 +1,9 @@
+.little_box{
+    position: relative;}
+.price{
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        background-color: orange;
+        padding: 3px;
+}
